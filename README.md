@@ -62,5 +62,7 @@ spring.datasource.password=[YOUR_PASSWORD]
 Access the Application:
 Open a browser and navigate to http://localhost:8080/index.
 
+<img width="1715" height="537" alt="Screenshot 2025-07-23 223848" src="https://github.com/user-attachments/assets/fc77ca58-66ca-4281-af11-0ef8c13037f7" />
+<img width="1917" height="923" alt="Screenshot 2025-07-23 223827" src="https://github.com/user-attachments/assets/b7abef1a-4e88-47b9-a8f5-482be5556f60" />
 
 
